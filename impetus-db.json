@@ -1,0 +1,344 @@
+{
+  "profile": [
+    {
+        "id": "",
+        "clientInformation": {
+          "name": "Mattie Armstrong",
+          "dob": "1999-11-24T22:05:58.659Z",
+          "gender": "Female",
+          "maritalStatus": "Divorced",
+          "employmentStatus": "Employed"
+        },
+        "financials": {
+          "income": "4289.29",
+          "expenses": "2129.09",
+          "savings": "8027.64",
+          "investment": "1252.72",
+          "debt": "4603.62",
+          "cashflow": "1060.79",
+          "networth": "45477.79"
+        },
+        "goals": {
+          "emergencyFund": "7069.50",
+          "travel": "3101.94"
+        },
+        "insurances": {
+          "lifeInsurance": "43449.61",
+          "personalAccident": "9913.80"
+        }
+      },
+    {
+      "id": "bd391975-6a15-4820-92be-f45779b6d55b",
+      "clientInformation": {
+        "name": "Ms. Erin Jaskolski",
+        "dob": "2024-08-03T12:44:00.535Z",
+        "gender": "Female",
+        "maritalStatus": "Divorced",
+        "employmentStatus": "Unemployed"
+      },
+      "financials": {
+        "income": "4289.29",
+        "expenses": "2129.09",
+        "savings": "8027.64",
+        "investment": "1252.72",
+        "debt": "4603.62",
+        "cashflow": "1060.79",
+        "networth": "45477.79"
+      },
+      "goals": {
+        "emergencyFund": "7069.50",
+        "travel": "3101.94"
+      },
+      "insurances": {
+        "lifeInsurance": "43449.61",
+        "personalAccident": "9913.80"
+      }
+    },
+    {
+      "id": "45d0d857-fc5f-44f2-a8c9-f6c0d8a0f84f",
+      "clientInformation": {
+        "name": "Bertha Abshire",
+        "dob": "2024-08-30T11:48:27.880Z",
+        "gender": "Male",
+        "maritalStatus": "Divorced",
+        "employmentStatus": "Unemployed"
+      },
+      "financials": {
+        "income": "4289.29",
+        "expenses": "2129.09",
+        "savings": "8027.64",
+        "investment": "1252.72",
+        "debt": "4603.62",
+        "cashflow": "1060.79",
+        "networth": "45477.79"
+      },
+      "goals": {
+        "emergencyFund": "7069.50",
+        "travel": "3101.94"
+      },
+      "insurances": {
+        "lifeInsurance": "43449.61",
+        "personalAccident": "9913.80"
+      }
+    },
+    {
+      "id": "7a97bafe-5107-4601-ba0a-6f62ee13e8d1",
+      "clientInformation": {
+        "name": "Dr. Isaac Hauck",
+        "dob": "2024-05-04T17:10:35.243Z",
+        "gender": "Female",
+        "maritalStatus": "Divorced",
+        "employmentStatus": "Unemployed"
+      },
+      "financials": {
+        "income": "4289.29",
+        "expenses": "2129.09",
+        "savings": "8027.64",
+        "investment": "1252.72",
+        "debt": "4603.62",
+        "cashflow": "1060.79",
+        "networth": "45477.79"
+      },
+      "goals": {
+        "emergencyFund": "7069.50",
+        "travel": "3101.94"
+      },
+      "insurances": {
+        "lifeInsurance": "43449.61",
+        "personalAccident": "9913.80"
+      }
+    },
+    {
+      "id": "d7accc68-13ad-4739-97e7-f9852091b57a",
+      "clientInformation": {
+        "name": "Mr. Grant McGlynn",
+        "dob": "2024-09-09T14:18:39.401Z",
+        "gender": "Male",
+        "maritalStatus": "Divorced",
+        "employmentStatus": "Unemployed"
+      },
+      "financials": {
+        "income": "4289.29",
+        "expenses": "2129.09",
+        "savings": "8027.64",
+        "investment": "1252.72",
+        "debt": "4603.62",
+        "cashflow": "1060.79",
+        "networth": "45477.79"
+      },
+      "goals": {
+        "emergencyFund": "7069.50",
+        "travel": "3101.94"
+      },
+      "insurances": {
+        "lifeInsurance": "43449.61",
+        "personalAccident": "9913.80"
+      }
+    },
+    {
+      "id": "817eaeaa-0054-483b-95e5-ba19310d54c2",
+      "clientInformation": {
+        "name": "Brooke Wolff III",
+        "dob": "2024-08-28T21:26:34.800Z",
+        "gender": "Male",
+        "maritalStatus": "Married",
+        "employmentStatus": "Employed"
+      },
+      "financials": {
+        "income": "4289.29",
+        "expenses": "2129.09",
+        "savings": "8027.64",
+        "investment": "1252.72",
+        "debt": "4603.62",
+        "cashflow": "1060.79",
+        "networth": "45477.79"
+      },
+      "goals": {
+        "emergencyFund": "7069.50",
+        "travel": "3101.94"
+      },
+      "insurances": {
+        "lifeInsurance": "43449.61",
+        "personalAccident": "9913.80"
+      }
+    },
+    {
+      "id": "dcc30bfd-aa24-4052-a67e-dccffe3a976e",
+      "clientInformation": {
+        "name": "John Rogahn",
+        "dob": "2024-04-11T18:48:09.282Z",
+        "gender": "Female",
+        "maritalStatus": "Married",
+        "employmentStatus": "Unemployed"
+      },
+      "financials": {
+        "income": "4289.29",
+        "expenses": "2129.09",
+        "savings": "8027.64",
+        "investment": "1252.72",
+        "debt": "4603.62",
+        "cashflow": "1060.79",
+        "networth": "45477.79"
+      },
+      "goals": {
+        "emergencyFund": "7069.50",
+        "travel": "3101.94"
+      },
+      "insurances": {
+        "lifeInsurance": "43449.61",
+        "personalAccident": "9913.80"
+      }
+    },
+    {
+      "id": "0188eb48-b343-43d0-9a20-1a477b199dc4",
+      "clientInformation": {
+        "name": "Mr. Vivian Jacobi",
+        "dob": "2023-12-14T22:45:34.136Z",
+        "gender": "Male",
+        "maritalStatus": "Single",
+        "employmentStatus": "Employed"
+      },
+      "financials": {
+        "income": "4289.29",
+        "expenses": "2129.09",
+        "savings": "8027.64",
+        "investment": "1252.72",
+        "debt": "4603.62",
+        "cashflow": "1060.79",
+        "networth": "45477.79"
+      },
+      "goals": {
+        "emergencyFund": "7069.50",
+        "travel": "3101.94"
+      },
+      "insurances": {
+        "lifeInsurance": "43449.61",
+        "personalAccident": "9913.80"
+      }
+    },
+    {
+      "id": "0188eb48-b343-43d0-9a20-1a477b199dc4",
+      "clientInformation": {
+        "name": "Georgia Crona",
+        "dob": "2024-03-25T07:28:53.268Z",
+        "gender": "Female",
+        "maritalStatus": "Single",
+        "employmentStatus": "Employed"
+      },
+      "financials": {
+        "income": "4289.29",
+        "expenses": "2129.09",
+        "savings": "8027.64",
+        "investment": "1252.72",
+        "debt": "4603.62",
+        "cashflow": "1060.79",
+        "networth": "45477.79"
+      },
+      "goals": {
+        "emergencyFund": "7069.50",
+        "travel": "3101.94"
+      },
+      "insurances": {
+        "lifeInsurance": "43449.61",
+        "personalAccident": "9913.80"
+      }
+    }
+  ],
+  "clients": [
+    {
+      "id": "e69351b3-bfef-4bd2-a570-d83a33a2a92d",
+      "name": "Dr. Julia Labadie",
+      "dob": "2023-12-22T19:05:41.609Z",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "employmentStatus": "Unemployed",
+      "image": "https://media.istockphoto.com/id/871752462/vector/default-gray-placeholder-man.jpg?s=612x612&w=0&k=20&c=4aUt99MQYO4dyo-rPImH2kszYe1EcuROC6f2iMQmn8o="
+    },
+    {
+      "id": "bd391975-6a15-4820-92be-f45779b6d55b",
+      "name": "Ms. Erin Jaskolski",
+      "dob": "2024-08-03T12:44:00.535Z",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "employmentStatus": "Employed",
+      "image": "https://media.istockphoto.com/id/871752462/vector/default-gray-placeholder-man.jpg?s=612x612&w=0&k=20&c=4aUt99MQYO4dyo-rPImH2kszYe1EcuROC6f2iMQmn8o="
+
+    },
+    {
+      "id": "45d0d857-fc5f-44f2-a8c9-f6c0d8a0f84f",
+      "name": "Bertha Abshire",
+      "dob": "2024-08-30T11:48:27.880Z",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "employmentStatus": "Employed",
+      "image": "https://media.istockphoto.com/id/871752462/vector/default-gray-placeholder-man.jpg?s=612x612&w=0&k=20&c=4aUt99MQYO4dyo-rPImH2kszYe1EcuROC6f2iMQmn8o="
+
+    },
+    {
+      "id": "b3fcf6f0-7ba4-4b8a-bd2e-db509d7d7edd",
+      "name": "Dr. Isaac Hauck",
+      "dob": "2024-05-04T17:10:35.243Z",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "employmentStatus": "Unemployed",
+      "image": "https://media.istockphoto.com/id/871752462/vector/default-gray-placeholder-man.jpg?s=612x612&w=0&k=20&c=4aUt99MQYO4dyo-rPImH2kszYe1EcuROC6f2iMQmn8o="
+    },
+    {
+      "id": "d7accc68-13ad-4739-97e7-f9852091b57a",
+      "name": "Mr. Grant McGlynn",
+      "dob": "2024-09-09T14:18:39.401Z",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "employmentStatus": "Unemployed",
+      "image": "https://media.istockphoto.com/id/871752462/vector/default-gray-placeholder-man.jpg?s=612x612&w=0&k=20&c=4aUt99MQYO4dyo-rPImH2kszYe1EcuROC6f2iMQmn8o="
+    },
+    {
+      "id": "7a97bafe-5107-4601-ba0a-6f62ee13e8d1",
+      "name": "Arnold Schaden",
+      "dob": "2023-11-28T17:33:51.295Z",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "employmentStatus": "Employed",
+      "image": "https://media.istockphoto.com/id/871752462/vector/default-gray-placeholder-man.jpg?s=612x612&w=0&k=20&c=4aUt99MQYO4dyo-rPImH2kszYe1EcuROC6f2iMQmn8o="
+    },
+    {
+      "id": "817eaeaa-0054-483b-95e5-ba19310d54c2",
+      "name": "Brooke Wolff III",
+      "dob": "2024-08-28T21:26:34.800Z",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "employmentStatus": "Employed",
+      "image": "https://media.istockphoto.com/id/871752462/vector/default-gray-placeholder-man.jpg?s=612x612&w=0&k=20&c=4aUt99MQYO4dyo-rPImH2kszYe1EcuROC6f2iMQmn8o="
+    },
+    {
+      "id": "dcc30bfd-aa24-4052-a67e-dccffe3a976e",
+      "name": "John Rogahn",
+      "dob": "2024-04-11T18:48:09.282Z",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "employmentStatus": "Unemployed",
+      "image": "https://media.istockphoto.com/id/871752462/vector/default-gray-placeholder-man.jpg?s=612x612&w=0&k=20&c=4aUt99MQYO4dyo-rPImH2kszYe1EcuROC6f2iMQmn8o="
+
+    },
+    {
+      "id": "0188eb48-b343-43d0-9a20-1a477b199dc4",
+      "name": "Mr. Vivian Jacobi",
+      "dob": "2023-12-14T22:45:34.136Z",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "employmentStatus": "Employed",
+      "image": "https://media.istockphoto.com/id/871752462/vector/default-gray-placeholder-man.jpg?s=612x612&w=0&k=20&c=4aUt99MQYO4dyo-rPImH2kszYe1EcuROC6f2iMQmn8o="
+
+    },
+    {
+      "id": "3b16d2b7-cc06-4caa-9cf3-4796969c7fc4",
+      "name": "Georgia Crona",
+      "dob": "2024-03-25T07:28:53.268Z",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "employmentStatus": "Employed",
+      "image": "https://media.istockphoto.com/id/871752462/vector/default-gray-placeholder-man.jpg?s=612x612&w=0&k=20&c=4aUt99MQYO4dyo-rPImH2kszYe1EcuROC6f2iMQmn8o="
+
+    }
+  ]
+}
